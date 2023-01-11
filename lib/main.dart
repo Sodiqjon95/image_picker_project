@@ -21,16 +21,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class Nimadurda extends StatelessWidget {
-  const Nimadurda({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text("nimadurdannnnnn")),
-    );
-  }
-}
 
 
 
